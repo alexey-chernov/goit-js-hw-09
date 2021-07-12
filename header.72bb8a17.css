@@ -1,0 +1,18 @@
+header {
+  padding-bottom: 30px;
+  text-align: center;
+}
+header a {
+  color: green;
+  width: 180px;
+  border: 1px solid blue;
+  display: flex;
+  margin: auto;
+  text-decoration: auto;
+  justify-content: center;
+  padding: 10px;
+  background-color: cornsilk;
+  border-radius: 20px;
+}
+
+/*# sourceMappingURL=/header.72bb8a17.css.map */
